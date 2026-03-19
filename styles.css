@@ -193,40 +193,6 @@ img {
   transform: translateY(0px) scale(0.95);
 }
 
-.social-icons {
-  margin-top: 0;
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-  flex-wrap: wrap;
-}
-
-.social-icons a {
-  font-size: 1.5rem;
-  color: #b0b0b0;
-  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 50px;
-  height: 50px;
-  border-radius: 10px;
-  border: 1px solid rgba(176, 176, 176, 0.3);
-  cursor: pointer;
-}
-
-.social-icons a:hover {
-  color: #ffffff;
-  background: rgba(176, 176, 176, 0.15);
-  transform: translateY(-6px) scale(1.1);
-  border-color: rgba(176, 176, 176, 0.6);
-  box-shadow: 0 8px 20px rgba(176, 176, 176, 0.2);
-}
-
-.social-icons a:active {
-  transform: translateY(0px) scale(0.95);
-}
-
 /* 4. GENERAL SECTION STYLING */
 section {
   padding: 80px 0;
