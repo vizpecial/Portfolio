@@ -34,9 +34,6 @@ Here are a few projects I’ve built and am especially proud of:
 |---|---|---|---|
 | **YouTube Clone** |Simple YouTube clone built with HTML, CSS, and JavaScript.| JavaScript, HTML, CSS | [Live Demo](https://vizpecial.github.io/YouTube-Clone/) · [GitHub](https://github.com/vizpecial/YouTube_Clone/) |
 | **Weather App** | Weather forecasting app with clean UI and real-time data via OpenWeather API. | JavaScript, CSS, API calls | [Live Demo](https://vizpecial.github.io/Weather-App/) · [GitHub](https://github.com/vizpecial/Weather-App) |
-| **Rock Paper Scissors** | A browser-game where you play Rock-Paper-Scissors vs the computer. | JavaScript, HTML, CSS | [Live Demo](https://vizpecial.github.io/Game/) · [GitHub](https://github.com/vizpecial/Game) |
-
-
 ---
 
 ## 🌐 Website Preview
