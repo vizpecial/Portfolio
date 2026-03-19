@@ -431,6 +431,7 @@ section:nth-child(even) {
 .project-content h3 {
   font-size: 1.3rem;
   margin-bottom: 12px;
+  margin-top: 12px;
 }
 
 .project-content p {
